@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.a25e24b2.css",
-    "main.js": "/static/js/main.93fce5f1.js",
-    "static/js/787.165f98e0.chunk.js": "/static/js/787.165f98e0.chunk.js",
-    "static/media/img3.jpg": "/static/media/img3.a09a7b56ef5006fe876d.jpg",
-    "static/media/img6.png": "/static/media/img6.64353c873a1cde2dd272.png",
-    "static/media/img2.jpg": "/static/media/img2.2ea5003e6676c02ae18a.jpg",
-    "static/media/img1.jpg": "/static/media/img1.3e177e187643956b664c.jpg",
-    "static/media/img5.jpg": "/static/media/img5.a4ebf064fb935c69fee1.jpg",
-    "static/media/img4.jpg": "/static/media/img4.e2779d5f6bbcbaedc9a6.jpg",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/index.html",
-    "main.a25e24b2.css.map": "/static/css/main.a25e24b2.css.map",
-    "main.93fce5f1.js.map": "/static/js/main.93fce5f1.js.map",
-    "787.165f98e0.chunk.js.map": "/static/js/787.165f98e0.chunk.js.map"
+    "main.css": "/reactjscss03072022/static/css/main.a25e24b2.css",
+    "main.js": "/reactjscss03072022/static/js/main.87b4ccd1.js",
+    "static/js/787.165f98e0.chunk.js": "/reactjscss03072022/static/js/787.165f98e0.chunk.js",
+    "static/media/img3.jpg": "/reactjscss03072022/static/media/img3.a09a7b56ef5006fe876d.jpg",
+    "static/media/img6.png": "/reactjscss03072022/static/media/img6.64353c873a1cde2dd272.png",
+    "static/media/img2.jpg": "/reactjscss03072022/static/media/img2.2ea5003e6676c02ae18a.jpg",
+    "static/media/img1.jpg": "/reactjscss03072022/static/media/img1.3e177e187643956b664c.jpg",
+    "static/media/img5.jpg": "/reactjscss03072022/static/media/img5.a4ebf064fb935c69fee1.jpg",
+    "static/media/img4.jpg": "/reactjscss03072022/static/media/img4.e2779d5f6bbcbaedc9a6.jpg",
+    "static/media/logo.svg": "/reactjscss03072022/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/reactjscss03072022/index.html",
+    "main.a25e24b2.css.map": "/reactjscss03072022/static/css/main.a25e24b2.css.map",
+    "main.87b4ccd1.js.map": "/reactjscss03072022/static/js/main.87b4ccd1.js.map",
+    "787.165f98e0.chunk.js.map": "/reactjscss03072022/static/js/787.165f98e0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a25e24b2.css",
-    "static/js/main.93fce5f1.js"
+    "static/js/main.87b4ccd1.js"
   ]
 }
