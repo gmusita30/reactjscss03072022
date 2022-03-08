@@ -1,6 +1,8 @@
 import logo from './logo.svg';
 import './App.css';
 import NavBar from './components/NavBar';
+import Footer from './components/Footer';
+
 import Home from './pages/Home';
 import Sat from './pages/Sat';
 import Sun from './pages/Sun';
@@ -17,6 +19,7 @@ function App() {
         <Route path="/" element={ 
         <>
         <NavBar />
+        <Footer/>
         </>
         }>
         {<Route path="/home" element={ <Home />} />}
