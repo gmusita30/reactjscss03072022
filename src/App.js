@@ -16,15 +16,11 @@ function App() {
 
     <BrowserRouter basename={process.env.PUBLIC_URL}>
       <Routes>
-        <Route path="/" element={ 
-        <>
-        <NavBar />
-        <Footer/>
-        </>
-        }>
-        {<Route path="/home" element={ <Home />} />}
-        {<Route path="/sat" element={ <Sat />} />}
-        {<Route path="/sun" element={ <Sun />} />}
+        <Route path="/" element={<NavBar /> }>
+        <Route path="/" element={ <Navigate to ="/home"/>} />
+        <Route path="/home" element={ <Home />} />
+        <Route path="/sat" element={ <Sat />} />
+        <Route path="/sun" element={ <Sun />} />
         </Route>
       </Routes>
     </BrowserRouter>
